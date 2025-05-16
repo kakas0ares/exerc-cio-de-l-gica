@@ -1,2 +1,2 @@
-# exerc-cio-de-l-gica
+# exercicio-de-logica
 atividade de sala 
