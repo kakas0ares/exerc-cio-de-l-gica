@@ -9,9 +9,10 @@ programa {
     escreva("Informe o valor gasto em fevereiro")
     leia(fevereiro)
     escreva("Informe o valor gasto em março")
+    leia(leia marco)
 
     //Processamento 
-    media_Aritmetica= janeiro+fevereiro+marco
+    media_Aritmetica= janeiro+fevereiro+marco/3
 
     //Saída de dados 
     escreva("A média aritmética é", media_Aritmetica)
