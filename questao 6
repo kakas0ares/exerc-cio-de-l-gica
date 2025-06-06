@@ -1,0 +1,20 @@
+programa {
+  funcao inicio() {
+    //Declaração de variavel
+    real x, y, troca
+
+    //Entrada de dados 
+    escreva("Informe o primeiro valor: ")
+    leia(x)
+    escreva("Informe o segundo valor: ")
+    leia(y)
+
+    //Processamento 
+    troca = x 
+    x = y 
+    y = troca
+
+    // Saida de dados
+    escreva("O valor trocado de x ", x , " O valor trocado de y ", y)
+  }
+}
